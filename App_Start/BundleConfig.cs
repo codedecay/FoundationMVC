@@ -1,6 +1,6 @@
 using System.Web.Optimization;
 
-namespace FoundationMVC
+namespace $safeprojectname$
 {
     public class BundleConfig
     {
